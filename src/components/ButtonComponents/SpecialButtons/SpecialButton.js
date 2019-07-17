@@ -6,3 +6,4 @@ const SpecialButton = (props) => {
     <button className="specButton">{buttonContent}</button>
   );
 };
+export default SpecialButton;
